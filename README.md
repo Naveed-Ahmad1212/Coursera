@@ -1,2 +1,2 @@
 # Coursera
-This is for my personal
+This is for my personal course related to HTML, CSS and Javascript.
